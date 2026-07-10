@@ -13,7 +13,7 @@ I work on developer experience & infra: CI/CD pipelines, service mesh, and test 
 ## Currently
 
 - Migrating microservices to Consul service mesh at VK
-- Finishing a BSc in Software Engineering at RTU MIREA
+- Just finished a BSc in Software Engineering at RTU MIREA (with honors, GPA 4.98/5.0)
 
 ## Tech stack
 
